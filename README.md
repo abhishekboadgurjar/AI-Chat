@@ -1,4 +1,4 @@
-# AI Chat 🤖💬
+# AI Chat 💬
 
 A full-stack AI-powered chat application built with Google's Gemini API, featuring both web and mobile clients with a robust Node.js backend.
 
